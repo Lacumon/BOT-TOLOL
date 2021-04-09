@@ -36,7 +36,7 @@
 
 •Get On Telegram With Bot [KLIK HERE](https://t.me/stringxbot) 🔥
 
-•With Repl.it [KLIK HERE](https://repl.it/@lacumon) 🔥
+•With Repl.it [KLIK HERE](https://replit.com/@lacumon/XBOT-REMIX#main.py) 🔥
 
 ### Or Run on your terminal
 
